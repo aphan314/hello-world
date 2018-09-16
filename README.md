@@ -6,7 +6,7 @@ HelloWorld is an app used to introduce the basics of mobile app development spec
 With the help from CodePath, HelloWorld was developed using Xcode and code was written in Swift.
 
 ### App Walk-though
-<img src="https://i.imgur.com/9A8bYiO.gif" width=200><br>
+<img src="https://i.imgur.com/9A8bYiO.gif" width=600><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
@@ -21,4 +21,4 @@ With the help from CodePath, HelloWorld was developed using Xcode and code was w
    - [X] a. User can enter text into a text field using the keyboard.
    - [X] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [X] c. If the text field is empty, update label with default text string.
-   - [ ] d. The keyboard is dismissed after the button has been tapped.
+   - [X] d. The keyboard is dismissed after the button has been tapped.
